@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shahbinshoaib
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Unity Game Developemnt by Game Train.
+- 👀 Immersive Experience Designer, Game Developer, Flutter Trainer
+- 🌱 Always looking towards learning new tech
 - 💞️ I’m looking to collaborate on Games Developement.
 - 📫 How to reach me shahbinshoaib@gmail.com
 
